@@ -22,7 +22,7 @@
 
 - <img  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Girl%20Light%20Skin%20Tone.png"  alt="Girl Light Skin Tone"  width="25"  height="25" /> Busco constantemente aprimorar minhas habilidades e aprender sobre novas tecnologias.<br />
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Teacher%20Light%20Skin%20Tone.png" alt="Left Speech Bubble" width="25" height="25" /> Estou atualmente me aventurando no desenvolvimento full stack com Java e Spring Boot.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Estou atualmente me aventurando no desenvolvimento full stack com Java e Spring Boot.
 
 ## Habilidades
 <div  align='center'>
