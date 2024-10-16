@@ -2,7 +2,7 @@
 	<img  height="350em"  src="https://img.freepik.com/premium-vector/caucasian-female-software-developer-her-40s-debugging-program_1238364-91996.jpg?w=740"/>
 </div>
 <h3 align="center">
-	Jaqueline Trevizan • Desenvolvedora Web
+	Jaqueline Trevizan • Desenvolvedora Frontend
 </h3>
 <div  align="center">
 <p>
