@@ -14,7 +14,7 @@
 
 ## Sobre mim
 
-- <img  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png"  alt="Hand with Fingers Splayed Light Skin Tone"  width="25"  height="25" /> Olá! Meu nome é Jaqueline, sou desenvolvedora Web! <br />
+- <img  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png"  alt="Hand with Fingers Splayed Light Skin Tone"  width="25"  height="25" /> Olá! Meu nome é Jaqueline, sou desenvolvedora Frontend! <br />
 
 - <img  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png"  alt="Brain"  width="25"  height="25" /> Formada em Análise e Desenvolvimento de Sistemas e pós-graduada em Engenharia de Software.<br />
 
