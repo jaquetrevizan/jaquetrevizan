@@ -28,7 +28,7 @@
 
 ## Habilidades
 <div  align='center'>
-<img  src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,angular,postgres,git,vscode,java,spring,wordpress&theme=dark" />
+<img  src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,angular,vue,postgres,git,vscode,java,spring,wordpress&theme=dark" />
 </div><br />
 
 <div  align='center'>
