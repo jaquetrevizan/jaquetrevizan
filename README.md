@@ -18,7 +18,7 @@
 
 - <img  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png"  alt="Brain"  width="25"  height="25" /> Formada em Análise e Desenvolvimento de Sistemas e pós-graduada em Engenharia de Software.<br />
 
-- <img  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png"  alt="Woman Technologist Light Skin Tone"  width="25"  height="25" /> Minha stack principal é composta por Angular, TypeScript e JavaScript.<br />
+- <img  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png"  alt="Woman Technologist Light Skin Tone"  width="25"  height="25" /> Minha stack principal é composta por JavaScript, TypeScript e Angular.<br />
 
 - <img  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Girl%20Light%20Skin%20Tone.png"  alt="Girl Light Skin Tone"  width="25"  height="25" /> Busco constantemente aprimorar minhas habilidades e aprender sobre novas tecnologias.<br />
 
