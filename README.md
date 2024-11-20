@@ -22,13 +22,13 @@
 
 - <img  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Girl%20Light%20Skin%20Tone.png"  alt="Girl Light Skin Tone"  width="25"  height="25" /> Busco constantemente aprimorar minhas habilidades e aprender sobre novas tecnologias.<br />
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Estou atualmente me aventurando no desenvolvimento full stack com Java e Spring Boot.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> No momento, estou me dedicando ao aprendizado e desenvolvimento com Flutter.
 
 - 🦆 Criadora do blog [Pato de Borracha](https://patodeborracha.tech/), espaço onde torno a Engenharia de Software simples e acessível.
 
 ## Habilidades
 <div  align='center'>
-<img  src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,angular,vue,postgres,git,vscode,java,spring,wordpress&theme=dark" />
+<img  src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,angular,vue,flutter,wordpress&theme=dark" />
 </div><br />
 
 <div  align='center'>
