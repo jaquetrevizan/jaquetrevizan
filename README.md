@@ -37,10 +37,6 @@
 
 ---
 
-## Estatísticas
-
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaquetrevizan&layout=compact&title_color=00d26a&text_color=ccd6f6&bg_color=0a192f&border_color=0a192f" />
-  
-  <img height="170em" src="https://streak-stats.demolab.com?user=jaquetrevizan&theme=dark&hide_border=true&ring=00d26a&fire=00d26a&currStreakLabel=00d26a" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaquetrevizan&layout=compact&title_color=00d26a&text_color=ccd6f6&bg_color=0a192f&border_color=0a192f" /><br/>
 </div>
