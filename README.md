@@ -17,7 +17,7 @@
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Woman Technologist Light Skin Tone" width="25" height="25" /> Minha stack principal é composta por **Angular, TypeScript, React e Next.js**.<br />
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Atualmente, venho ampliando meus conhecimentos em **Vue**, para complementar minha stack como desenvolvedora.<br />
+- 🖥️ Atualmente, venho ampliando meus conhecimentos em **Vue**, para complementar minha stack como desenvolvedora.<br />
 
 - 🦆 Criadora do blog [Pato de Borracha](https://patodeborracha.tech/),  onde compartilho práticas e conteúdos de tecnologia de forma simples e acessível.
 
