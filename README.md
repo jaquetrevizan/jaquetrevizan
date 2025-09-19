@@ -2,10 +2,10 @@
 
 <table>
 <tr>
-<td width="180px" align="center">
-  <img src="https://patodeborracha.tech/wp-content/uploads/2025/09/jaque-trevizan.png" width="150px" style="border-radius:50%;" />
-</td>
+
 <td align="center">
+
+<img src="https://patodeborracha.tech/wp-content/uploads/2025/09/jaque-trevizan.png" width="150px" style="border-radius:50%;" />
 
 # Jaqueline Trevizan  
 **Desenvolvedora Front-end**  
