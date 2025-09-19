@@ -30,7 +30,7 @@
 
 - 🖥️ Atualmente, venho ampliando meus conhecimentos em **Vue**, para complementar minhas habilidades como desenvolvedora.<br />
 
-- 🦆 Criadora do blog [**Pato de Borracha**](https://patodeborracha.tech/), onde compartilho conceitos e compartilho práticas de tecnologia de forma simples e acessível.
+- 🦆 Criadora do blog [**Pato de Borracha**](https://patodeborracha.tech/), onde compartilho conceitos e práticas de tecnologia de forma simples e acessível.
 
 ---
 
